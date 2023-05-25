@@ -4,6 +4,9 @@ This is a template for a Flutter project that uses the [Riverpod](https://pub.de
 
 ## Getting Started
 
+This template uses code generation for riverpod, gorouter and freezed for data class.
+Run `dart run build_runner watch` to generate.
+
 ## Folder structure
 
 `app` folder contains the styles, router, and the app widget.
